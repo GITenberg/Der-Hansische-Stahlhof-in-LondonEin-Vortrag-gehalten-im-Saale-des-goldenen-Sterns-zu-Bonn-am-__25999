@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31730'
     url: http://www.gutenberg.org/2009/agents/31730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25999#Der-Hansische-Stahlhof-in-LondonEin-Vortrag-gehalten-im-Saale-des-goldenen-Sterns-zu-Bonn-am-_
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2008-07-08'
 gutenberg_type: Text
