@@ -1,0 +1,31 @@
+_repo: Der-Hansische-Stahlhof-in-LondonEin-Vortrag-gehalten-im-Saale-des-goldenen-Sterns-zu-Bonn-am-__25999
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pauli, Reinhold
+    birthdate: 1823
+    deathdate: 1882
+    gutenberg_agent_id: '31730'
+    url: http://www.gutenberg.org/2009/agents/31730
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2008-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25999'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc.'
+- !lcc 'DA'
+- !lcsh 'Europe -- History -- Hanseatic League'
+- !lcc 'DD'
+title: 'Der Hansische Stahlhof in London
+
+  Ein Vortrag, gehalten im Saale des goldenen Sterns zu Bonn am 11. März 1856'
+url: http://www.gutenberg.org/ebooks/25999
